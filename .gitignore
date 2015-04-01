@@ -1,0 +1,7 @@
+Debug/
+files/
+ipch/
+*.opensdf
+*.user
+*.suo
+GaussianBlur/Debug/
